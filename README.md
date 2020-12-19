@@ -1,4 +1,4 @@
-<img src="https://alllogos.ru/images/thumbs/preview-logotip-mgu.png"  alt="Логотип МГУ" heigth=100 />
+<img src="https://static.tildacdn.com/tild3333-3362-4731-a261-323535333532/_.svg"  alt="Логотип МГУ" heigth=100 />
 
 # Разработка параллельной версии программы для вычисления определенного интеграла с использованием метода трапеций.
 
